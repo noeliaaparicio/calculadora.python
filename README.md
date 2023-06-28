@@ -1,2 +1,2 @@
-Primera calculadora realizada en Python.
-Tiene las cuatro funciones básicas (suma, resta, multiplicación y división)
+### Primera calculadora en Python
+Realiza cálculos sencillos de suma, resta, multiplicación y división.
